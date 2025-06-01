@@ -50,7 +50,7 @@ pip install pandas sqlalchemy
 
 3. Execute o Jupyter Notebook:
    ```bash
-   jupyter notebook Projeto_documentado.ipynb
+   jupyter notebook Projeto_Python+SQLite.ipynb
    ```
 
 ## 🧠 Aprendizados
