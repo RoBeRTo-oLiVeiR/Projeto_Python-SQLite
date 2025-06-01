@@ -25,7 +25,7 @@ O projeto está implementado em um notebook Jupyter:
 Para executar este notebook, você precisará de:
 
 - Python 3.8+
-- Jupyter Notebook, JupyterLab ou executar em um ambiente em nuvem como o google colab
+- Jupyter Notebook ou JupyterLab
 - Bibliotecas:
   - pandas
   - sqlalchemy
@@ -34,3 +34,40 @@ Você pode instalar os requisitos com:
 
 ```bash
 pip install pandas sqlalchemy
+```
+
+## ▶️ Como executar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/RoBeRTo-oLiVeiR/Projeto_Python-SQLite.git
+   ```
+
+2. Acesse a pasta do projeto:
+   ```bash
+   cd Projeto_Python-SQLite
+   ```
+
+3. Execute o Jupyter Notebook:
+   ```bash
+   jupyter notebook Projeto_documentado.ipynb
+   ```
+
+## 🧠 Aprendizados
+
+- Uso de pandas para análise de dados tabulares.
+- Integração com banco de dados via SQLAlchemy.
+- Criação e manipulação de banco SQLite em memória.
+- Diferenças entre consultas SQL e filtragem com pandas.
+
+## 📎 Fonte dos dados
+
+Os dados foram retirados do curso da Alura sobre pandas e estão disponíveis [neste repositório](https://github.com/alura-cursos/pandas-conhecendo-a-biblioteca).
+
+## 📌 Observações
+
+Este projeto é educativo e voltado para quem está aprendendo análise de dados e integração com bancos relacionais usando Python.
+
+---
+
+**Desenvolvido com 💻 e ☕ por Roberto_Oliveira**
